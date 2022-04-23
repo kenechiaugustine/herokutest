@@ -1,8 +1,4 @@
 
-
-process.exit(1)
-
-
 const http = require('http');
 
 const server = http.createServer((req, res) => {
